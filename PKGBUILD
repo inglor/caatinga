@@ -1,6 +1,6 @@
 # Maintainer: Leonidas Spyropoulos <artafinde at gmail dot com>
 
-pkgname=python2-caatinga-git
+pkgname=caatinga-git
 pkgver=20120911
 pkgrel=1
 pkgdesc="Caatinga is a command line backup program written in Python - Git Version"
